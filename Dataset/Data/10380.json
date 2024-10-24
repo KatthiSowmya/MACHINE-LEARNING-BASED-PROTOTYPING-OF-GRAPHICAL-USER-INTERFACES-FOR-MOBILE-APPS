@@ -1,0 +1,257 @@
+{
+  "activity_name": "com.meredith.redplaid/com.meredith.redplaid.activities.SettingsActivity", 
+  "activity": {
+    "root": {
+      "scrollable-horizontal": false, 
+      "draw": true, 
+      "ancestors": [
+        "android.widget.FrameLayout", 
+        "android.view.ViewGroup", 
+        "android.view.View", 
+        "java.lang.Object"
+      ], 
+      "clickable": false, 
+      "pressed": "not_pressed", 
+      "focusable": false, 
+      "long-clickable": false, 
+      "enabled": true, 
+      "bounds": [
+        1037, 
+        409, 
+        1410, 
+        973
+      ], 
+      "visibility": "visible", 
+      "content-desc": [
+        null
+      ], 
+      "rel-bounds": [
+        0, 
+        0, 
+        373, 
+        564
+      ], 
+      "focused": false, 
+      "selected": false, 
+      "scrollable-vertical": false, 
+      "children": [
+        {
+          "scrollable-horizontal": false, 
+          "draw": true, 
+          "ancestors": [
+            "android.widget.FrameLayout", 
+            "android.view.ViewGroup", 
+            "android.view.View", 
+            "java.lang.Object"
+          ], 
+          "clickable": false, 
+          "pressed": "not_pressed", 
+          "focusable": false, 
+          "long-clickable": false, 
+          "enabled": true, 
+          "bounds": [
+            1037, 
+            409, 
+            1410, 
+            973
+          ], 
+          "visibility": "visible", 
+          "content-desc": [
+            null
+          ], 
+          "rel-bounds": [
+            0, 
+            0, 
+            373, 
+            564
+          ], 
+          "focused": false, 
+          "selected": false, 
+          "scrollable-vertical": false, 
+          "children": [
+            {
+              "scrollable-horizontal": false, 
+              "draw": false, 
+              "ancestors": [
+                "android.widget.ListView", 
+                "android.widget.AbsListView", 
+                "android.widget.AdapterView", 
+                "android.view.ViewGroup", 
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "clickable": true, 
+              "pressed": "not_pressed", 
+              "focusable": true, 
+              "long-clickable": false, 
+              "enabled": true, 
+              "bounds": [
+                1065, 
+                437, 
+                1382, 
+                945
+              ], 
+              "visibility": "visible", 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                28, 
+                28, 
+                345, 
+                536
+              ], 
+              "focused": true, 
+              "selected": false, 
+              "scrollable-vertical": true, 
+              "children": [
+                {
+                  "text": "Small", 
+                  "resource-id": "android:id/text1", 
+                  "adapter-view": false, 
+                  "pointer": "b629dd4", 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.widget.TextView", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    0, 
+                    317, 
+                    168
+                  ], 
+                  "draw": false, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "class": "android.widget.CheckedTextView", 
+                  "visible-to-user": true, 
+                  "package": "android", 
+                  "enabled": true, 
+                  "bounds": [
+                    1065, 
+                    437, 
+                    1382, 
+                    605
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }, 
+                {
+                  "text": "Medium", 
+                  "resource-id": "android:id/text1", 
+                  "adapter-view": false, 
+                  "pointer": "b0bfb7d", 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.widget.TextView", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    170, 
+                    317, 
+                    338
+                  ], 
+                  "draw": false, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "class": "android.widget.CheckedTextView", 
+                  "visible-to-user": true, 
+                  "package": "android", 
+                  "enabled": true, 
+                  "bounds": [
+                    1065, 
+                    607, 
+                    1382, 
+                    775
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }, 
+                {
+                  "text": "Large", 
+                  "resource-id": "android:id/text1", 
+                  "adapter-view": false, 
+                  "pointer": "a685a72", 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.widget.TextView", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    340, 
+                    317, 
+                    508
+                  ], 
+                  "draw": false, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "class": "android.widget.CheckedTextView", 
+                  "visible-to-user": true, 
+                  "package": "android", 
+                  "enabled": true, 
+                  "bounds": [
+                    1065, 
+                    777, 
+                    1382, 
+                    945
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }
+              ], 
+              "adapter-view": true, 
+              "abs-pos": true, 
+              "pointer": "ddd3728", 
+              "class": "android.widget.ListPopupWindow$DropDownListView", 
+              "visible-to-user": true
+            }
+          ], 
+          "adapter-view": false, 
+          "abs-pos": true, 
+          "pointer": "7758727", 
+          "class": "android.widget.PopupWindow$PopupBackgroundView", 
+          "visible-to-user": true
+        }
+      ], 
+      "adapter-view": false, 
+      "abs-pos": true, 
+      "pointer": "e15c5e6", 
+      "class": "android.widget.PopupWindow$PopupDecorView", 
+      "visible-to-user": true
+    }, 
+    "added_fragments": [], 
+    "active_fragments": []
+  }, 
+  "is_keyboard_deployed": false, 
+  "request_id": "395"
+}

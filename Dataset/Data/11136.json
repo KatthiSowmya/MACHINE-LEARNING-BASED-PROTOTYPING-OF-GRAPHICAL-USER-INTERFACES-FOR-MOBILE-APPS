@@ -1,0 +1,554 @@
+{
+  "activity_name": "com.amrelmadah.freelancing.zawagalan/com.amr.freelancing.zawagalan.SignUpActivity", 
+  "activity": {
+    "root": {
+      "scrollable-horizontal": false, 
+      "draw": true, 
+      "ancestors": [
+        "android.widget.FrameLayout", 
+        "android.view.ViewGroup", 
+        "android.view.View", 
+        "java.lang.Object"
+      ], 
+      "clickable": false, 
+      "pressed": "not_pressed", 
+      "focusable": false, 
+      "long-clickable": false, 
+      "enabled": true, 
+      "bounds": [
+        586, 
+        236, 
+        1222, 
+        1916
+      ], 
+      "visibility": "visible", 
+      "content-desc": [
+        null
+      ], 
+      "rel-bounds": [
+        0, 
+        0, 
+        636, 
+        1680
+      ], 
+      "focused": false, 
+      "selected": false, 
+      "scrollable-vertical": false, 
+      "children": [
+        {
+          "scrollable-horizontal": false, 
+          "draw": true, 
+          "ancestors": [
+            "android.widget.FrameLayout", 
+            "android.view.ViewGroup", 
+            "android.view.View", 
+            "java.lang.Object"
+          ], 
+          "clickable": false, 
+          "pressed": "not_pressed", 
+          "focusable": false, 
+          "long-clickable": false, 
+          "enabled": true, 
+          "bounds": [
+            586, 
+            236, 
+            1222, 
+            1916
+          ], 
+          "visibility": "visible", 
+          "content-desc": [
+            null
+          ], 
+          "rel-bounds": [
+            0, 
+            0, 
+            636, 
+            1680
+          ], 
+          "focused": false, 
+          "selected": false, 
+          "scrollable-vertical": false, 
+          "children": [
+            {
+              "scrollable-horizontal": false, 
+              "draw": false, 
+              "ancestors": [
+                "android.widget.ListView", 
+                "android.widget.AbsListView", 
+                "android.widget.AdapterView", 
+                "android.view.ViewGroup", 
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "clickable": true, 
+              "pressed": "not_pressed", 
+              "focusable": true, 
+              "long-clickable": false, 
+              "enabled": true, 
+              "bounds": [
+                586, 
+                236, 
+                1222, 
+                1916
+              ], 
+              "visibility": "visible", 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                0, 
+                636, 
+                1680
+              ], 
+              "focused": true, 
+              "selected": false, 
+              "scrollable-vertical": true, 
+              "children": [
+                {
+                  "text": "Choose", 
+                  "resource-id": "android:id/text1", 
+                  "adapter-view": false, 
+                  "pointer": "52155fa", 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.widget.TextView", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    0, 
+                    636, 
+                    168
+                  ], 
+                  "draw": false, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "font-family": "sans-serif", 
+                  "class": "android.support.v7.widget.AppCompatTextView", 
+                  "visible-to-user": true, 
+                  "package": "android", 
+                  "enabled": true, 
+                  "bounds": [
+                    586, 
+                    236, 
+                    1222, 
+                    404
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }, 
+                {
+                  "text": "Medicine & Treatment", 
+                  "resource-id": "android:id/text1", 
+                  "adapter-view": false, 
+                  "pointer": "bff7ab", 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.widget.TextView", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    168, 
+                    636, 
+                    336
+                  ], 
+                  "draw": false, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "font-family": "sans-serif", 
+                  "class": "android.support.v7.widget.AppCompatTextView", 
+                  "visible-to-user": true, 
+                  "package": "android", 
+                  "enabled": true, 
+                  "bounds": [
+                    586, 
+                    404, 
+                    1222, 
+                    572
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }, 
+                {
+                  "text": "Engineering & Science", 
+                  "resource-id": "android:id/text1", 
+                  "adapter-view": false, 
+                  "pointer": "874be08", 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.widget.TextView", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    336, 
+                    636, 
+                    504
+                  ], 
+                  "draw": false, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "font-family": "sans-serif", 
+                  "class": "android.support.v7.widget.AppCompatTextView", 
+                  "visible-to-user": true, 
+                  "package": "android", 
+                  "enabled": true, 
+                  "bounds": [
+                    586, 
+                    572, 
+                    1222, 
+                    740
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }, 
+                {
+                  "text": "Teaching", 
+                  "resource-id": "android:id/text1", 
+                  "adapter-view": false, 
+                  "pointer": "dcb89a1", 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.widget.TextView", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    504, 
+                    636, 
+                    672
+                  ], 
+                  "draw": false, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "font-family": "sans-serif", 
+                  "class": "android.support.v7.widget.AppCompatTextView", 
+                  "visible-to-user": true, 
+                  "package": "android", 
+                  "enabled": true, 
+                  "bounds": [
+                    586, 
+                    740, 
+                    1222, 
+                    908
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }, 
+                {
+                  "text": "Accounting", 
+                  "resource-id": "android:id/text1", 
+                  "adapter-view": false, 
+                  "pointer": "71ed7c6", 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.widget.TextView", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    672, 
+                    636, 
+                    840
+                  ], 
+                  "draw": false, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "font-family": "sans-serif", 
+                  "class": "android.support.v7.widget.AppCompatTextView", 
+                  "visible-to-user": true, 
+                  "package": "android", 
+                  "enabled": true, 
+                  "bounds": [
+                    586, 
+                    908, 
+                    1222, 
+                    1076
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }, 
+                {
+                  "text": "lawyer", 
+                  "resource-id": "android:id/text1", 
+                  "adapter-view": false, 
+                  "pointer": "7046387", 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.widget.TextView", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    840, 
+                    636, 
+                    1008
+                  ], 
+                  "draw": false, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "font-family": "sans-serif", 
+                  "class": "android.support.v7.widget.AppCompatTextView", 
+                  "visible-to-user": true, 
+                  "package": "android", 
+                  "enabled": true, 
+                  "bounds": [
+                    586, 
+                    1076, 
+                    1222, 
+                    1244
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }, 
+                {
+                  "text": "Trade & Economy", 
+                  "resource-id": "android:id/text1", 
+                  "adapter-view": false, 
+                  "pointer": "49bb2b4", 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.widget.TextView", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    1008, 
+                    636, 
+                    1176
+                  ], 
+                  "draw": false, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "font-family": "sans-serif", 
+                  "class": "android.support.v7.widget.AppCompatTextView", 
+                  "visible-to-user": true, 
+                  "package": "android", 
+                  "enabled": true, 
+                  "bounds": [
+                    586, 
+                    1244, 
+                    1222, 
+                    1412
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }, 
+                {
+                  "text": "Art , Media & Politics", 
+                  "resource-id": "android:id/text1", 
+                  "adapter-view": false, 
+                  "pointer": "1f61edd", 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.widget.TextView", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    1176, 
+                    636, 
+                    1344
+                  ], 
+                  "draw": false, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "font-family": "sans-serif", 
+                  "class": "android.support.v7.widget.AppCompatTextView", 
+                  "visible-to-user": true, 
+                  "package": "android", 
+                  "enabled": true, 
+                  "bounds": [
+                    586, 
+                    1412, 
+                    1222, 
+                    1580
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }, 
+                {
+                  "text": "Army & Police", 
+                  "resource-id": "android:id/text1", 
+                  "adapter-view": false, 
+                  "pointer": "f20aa52", 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.widget.TextView", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    1344, 
+                    636, 
+                    1512
+                  ], 
+                  "draw": false, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "font-family": "sans-serif", 
+                  "class": "android.support.v7.widget.AppCompatTextView", 
+                  "visible-to-user": true, 
+                  "package": "android", 
+                  "enabled": true, 
+                  "bounds": [
+                    586, 
+                    1580, 
+                    1222, 
+                    1748
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }, 
+                {
+                  "text": "Other", 
+                  "resource-id": "android:id/text1", 
+                  "adapter-view": false, 
+                  "pointer": "239b123", 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.widget.TextView", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    1512, 
+                    636, 
+                    1680
+                  ], 
+                  "draw": false, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "font-family": "sans-serif", 
+                  "class": "android.support.v7.widget.AppCompatTextView", 
+                  "visible-to-user": true, 
+                  "package": "android", 
+                  "enabled": true, 
+                  "bounds": [
+                    586, 
+                    1748, 
+                    1222, 
+                    1916
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }
+              ], 
+              "adapter-view": true, 
+              "abs-pos": true, 
+              "pointer": "bf7406d", 
+              "class": "android.widget.ListPopupWindow$DropDownListView", 
+              "visible-to-user": true
+            }
+          ], 
+          "adapter-view": false, 
+          "abs-pos": true, 
+          "pointer": "55dc0f0", 
+          "class": "android.widget.PopupWindow$PopupBackgroundView", 
+          "visible-to-user": true
+        }
+      ], 
+      "adapter-view": false, 
+      "abs-pos": true, 
+      "pointer": "8011533", 
+      "class": "android.widget.PopupWindow$PopupDecorView", 
+      "visible-to-user": true
+    }, 
+    "added_fragments": [], 
+    "active_fragments": []
+  }, 
+  "is_keyboard_deployed": false, 
+  "request_id": "656"
+}

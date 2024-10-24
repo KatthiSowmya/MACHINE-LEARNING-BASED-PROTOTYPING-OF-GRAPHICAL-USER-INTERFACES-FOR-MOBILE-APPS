@@ -1,0 +1,1583 @@
+{
+  "activity_name": "com.atomic.apps.medical.disease.condition.dictionary/com.atomic.apps.medical.disease.condition.dictionary.DiseaseDetailsDisplayerActivity", 
+  "activity": {
+    "root": {
+      "scrollable-horizontal": false, 
+      "draw": true, 
+      "ancestors": [
+        "android.widget.FrameLayout", 
+        "android.view.ViewGroup", 
+        "android.view.View", 
+        "java.lang.Object"
+      ], 
+      "clickable": false, 
+      "pressed": "not_pressed", 
+      "focusable": false, 
+      "long-clickable": false, 
+      "enabled": true, 
+      "bounds": [
+        0, 
+        0, 
+        1440, 
+        2392
+      ], 
+      "visibility": "visible", 
+      "content-desc": [
+        null
+      ], 
+      "rel-bounds": [
+        0, 
+        0, 
+        1440, 
+        2392
+      ], 
+      "focused": false, 
+      "selected": false, 
+      "scrollable-vertical": false, 
+      "children": [
+        {
+          "scrollable-horizontal": false, 
+          "draw": true, 
+          "ancestors": [
+            "android.view.ViewGroup", 
+            "android.view.View", 
+            "java.lang.Object"
+          ], 
+          "clickable": false, 
+          "pressed": "not_pressed", 
+          "focusable": false, 
+          "long-clickable": false, 
+          "enabled": true, 
+          "bounds": [
+            0, 
+            0, 
+            1440, 
+            2392
+          ], 
+          "visibility": "visible", 
+          "content-desc": [
+            null
+          ], 
+          "rel-bounds": [
+            0, 
+            0, 
+            1440, 
+            2392
+          ], 
+          "focused": false, 
+          "selected": false, 
+          "scrollable-vertical": false, 
+          "children": [
+            {
+              "resource-id": "android:id/action_mode_bar_stub", 
+              "adapter-view": false, 
+              "pointer": "caa1a31", 
+              "scrollable-horizontal": false, 
+              "ancestors": [
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "selected": false, 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                0, 
+                0, 
+                0
+              ], 
+              "draw": true, 
+              "focusable": false, 
+              "long-clickable": false, 
+              "visibility": "gone", 
+              "focused": false, 
+              "clickable": false, 
+              "abs-pos": true, 
+              "class": "android.view.ViewStub", 
+              "visible-to-user": false, 
+              "package": "android", 
+              "enabled": true, 
+              "bounds": [
+                0, 
+                0, 
+                0, 
+                0
+              ], 
+              "pressed": "not_pressed", 
+              "scrollable-vertical": false
+            }, 
+            {
+              "resource-id": "android:id/content", 
+              "adapter-view": false, 
+              "pointer": "b4e4516", 
+              "children": [
+                {
+                  "resource-id": "com.atomic.apps.medical.disease.condition.dictionary:id/catparent", 
+                  "adapter-view": false, 
+                  "pointer": "e644e97", 
+                  "children": [
+                    {
+                      "scrollable-horizontal": false, 
+                      "draw": true, 
+                      "ancestors": [
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "clickable": false, 
+                      "pressed": "not_pressed", 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        84, 
+                        1440, 
+                        2217
+                      ], 
+                      "visibility": "visible", 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        1440, 
+                        2133
+                      ], 
+                      "focused": false, 
+                      "selected": false, 
+                      "scrollable-vertical": false, 
+                      "children": [
+                        {
+                          "text": "Acidic Reflux", 
+                          "resource-id": "com.atomic.apps.medical.disease.condition.dictionary:id/title", 
+                          "adapter-view": false, 
+                          "pointer": "9ad4a9a", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            1440, 
+                            158
+                          ], 
+                          "draw": false, 
+                          "focusable": true, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": true, 
+                          "clickable": false, 
+                          "abs-pos": true, 
+                          "class": "android.widget.TextView", 
+                          "visible-to-user": true, 
+                          "package": "com.atomic.apps.medical.disease.condition.dictionary", 
+                          "enabled": true, 
+                          "bounds": [
+                            0, 
+                            84, 
+                            1440, 
+                            242
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }, 
+                        {
+                          "resource-id": "com.atomic.apps.medical.disease.condition.dictionary:id/shadowimage", 
+                          "adapter-view": false, 
+                          "pointer": "bd5286d", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            158, 
+                            1440, 
+                            228
+                          ], 
+                          "draw": false, 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": false, 
+                          "abs-pos": true, 
+                          "class": "android.widget.ImageView", 
+                          "visible-to-user": true, 
+                          "package": "com.atomic.apps.medical.disease.condition.dictionary", 
+                          "enabled": true, 
+                          "bounds": [
+                            0, 
+                            242, 
+                            1440, 
+                            312
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }, 
+                        {
+                          "resource-id": "com.atomic.apps.medical.disease.condition.dictionary:id/scrollholder", 
+                          "adapter-view": false, 
+                          "pointer": "d619ca2", 
+                          "children": [
+                            {
+                              "resource-id": "com.atomic.apps.medical.disease.condition.dictionary:id/scrollpanel", 
+                              "adapter-view": false, 
+                              "pointer": "7953d33", 
+                              "children": [
+                                {
+                                  "scrollable-horizontal": false, 
+                                  "draw": true, 
+                                  "ancestors": [
+                                    "android.view.ViewGroup", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "clickable": false, 
+                                  "pressed": "not_pressed", 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    0, 
+                                    312, 
+                                    1440, 
+                                    474
+                                  ], 
+                                  "visibility": "visible", 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    0, 
+                                    1440, 
+                                    2061
+                                  ], 
+                                  "focused": false, 
+                                  "selected": false, 
+                                  "scrollable-vertical": false, 
+                                  "children": [
+                                    {
+                                      "text": "Gastroesophageal reflux disease (GERD), gastro-oesophageal reflux disease (GORD), gastric reflux disease, or acid reflux disease is a chronic symptom of mucosal damage caused by stomach acid coming up from the stomach into the esophagus.\n\nGERD is usually caused by changes in the barrier between the stomach and the esophagus, including abnormal relaxation of the lower esophageal sphincter, which normally holds the top of the stomach closed, impaired expulsion of gastric reflux from the esophagus, or a hiatal hernia. These changes may be permanent or temporary.\n\nTreatment is typically via lifestyle changes and medications such as proton pump inhibitors, H receptor blockers or antacids with or without alginic acid. Surgery may be an option in those who do not improve. In the Western world between 10 and 20% of the population is affected.\n\n", 
+                                      "resource-id": "com.atomic.apps.medical.disease.condition.dictionary:id/sectioncontent", 
+                                      "adapter-view": false, 
+                                      "pointer": "728de69", 
+                                      "scrollable-horizontal": false, 
+                                      "ancestors": [
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "selected": false, 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        35, 
+                                        133, 
+                                        1405, 
+                                        2061
+                                      ], 
+                                      "draw": false, 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "visibility": "visible", 
+                                      "focused": false, 
+                                      "clickable": false, 
+                                      "abs-pos": true, 
+                                      "class": "android.widget.TextView", 
+                                      "visible-to-user": true, 
+                                      "package": "com.atomic.apps.medical.disease.condition.dictionary", 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        35, 
+                                        312, 
+                                        1405, 
+                                        474
+                                      ], 
+                                      "pressed": "not_pressed", 
+                                      "scrollable-vertical": false
+                                    }, 
+                                    {
+                                      "text": "Summary", 
+                                      "resource-id": "com.atomic.apps.medical.disease.condition.dictionary:id/sectiontitle", 
+                                      "adapter-view": false, 
+                                      "pointer": "e60e0ee", 
+                                      "scrollable-horizontal": false, 
+                                      "ancestors": [
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "selected": false, 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        140, 
+                                        70, 
+                                        1300, 
+                                        195
+                                      ], 
+                                      "draw": false, 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "visibility": "visible", 
+                                      "focused": false, 
+                                      "clickable": false, 
+                                      "abs-pos": true, 
+                                      "class": "android.widget.TextView", 
+                                      "visible-to-user": false, 
+                                      "package": "com.atomic.apps.medical.disease.condition.dictionary", 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        140, 
+                                        312, 
+                                        1300, 
+                                        -1391
+                                      ], 
+                                      "pressed": "not_pressed", 
+                                      "scrollable-vertical": false
+                                    }
+                                  ], 
+                                  "adapter-view": false, 
+                                  "abs-pos": true, 
+                                  "pointer": "ba2c8f0", 
+                                  "class": "android.widget.RelativeLayout", 
+                                  "visible-to-user": true
+                                }, 
+                                {
+                                  "scrollable-horizontal": false, 
+                                  "draw": true, 
+                                  "ancestors": [
+                                    "android.view.ViewGroup", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "clickable": false, 
+                                  "pressed": "not_pressed", 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    0, 
+                                    474, 
+                                    1440, 
+                                    2217
+                                  ], 
+                                  "visibility": "visible", 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    2061, 
+                                    1440, 
+                                    8427
+                                  ], 
+                                  "focused": false, 
+                                  "selected": false, 
+                                  "scrollable-vertical": false, 
+                                  "children": [
+                                    {
+                                      "text": "Adults\n\nThe most-common symptoms of GERD are: \n\nHeartburn Regurgitation \n\nLess-common symptoms include: \n\nPain with swallowing/sore throat (odynophagia)Increased salivation (also known as water brash)NauseaChest painCoughing \n\nGERD sometimes causes injury of the esophagus. These injuries may include: \n\nReflux esophagitis \u2013 necrosis of esophageal epithelium causing ulcers near the junction of the stomach and esophagusEsophageal strictures \u2013 the persistent narrowing of the esophagus caused by reflux-induced inflammationBarrett's esophagus \u2013 intestinal metaplasia (changes of the epithelial cells from squamous to intestinal columnar epithelium) of the distal esophagusEsophageal adenocarcinoma \u2013 a rare form of cancer \n\nSome people have proposed that symptoms such as sinusitis, recurrent ear infections, and idiopathic pulmonary fibrosis are due to GERD; however, a causative role has not been established.\n\nChildren\n\nGERD may be difficult to detect in infants and children, since they cannot describe what they are feeling and indicators must be observed. Symptoms may vary from typical adult symptoms. GERD in children may cause repeated vomiting, effortless spitting up, coughing, and other respiratory problems, such as wheezing. Inconsolable crying, refusing food, crying for food and then pulling off the bottle or breast only to cry for it again, failure to gain adequate weight, bad breath, and belching or burping are also common. Children may have one symptom or many; no single symptom is universal in all children with GERD.\n\nOf the estimated 4& million babies born in the US each year, up to 35% of them may have difficulties with reflux in the first few months of their lives, known as 'spitting up'. One theory for this is the \"fourth trimester theory\" which notes most animals are born with significant mobility, but humans are relatively helpless at birth, and suggests there may have once been a fourth trimester, but children began to be born earlier, evolutionarily, to accommodate the development of larger heads and brains and allow them to pass through the birth canal and this leaves them with partially undeveloped digestive systems.\n\nMost children will outgrow their reflux by their first birthday. However, a small but significant number of them will not outgrow the condition. This is particularly true when a family history of GERD is present.\n\nBarrett's esophagus\n\nGERD may lead to Barrett's esophagus, a type of intestinal metaplasia, which is in turn a precursor condition for carcinoma. The risk of progression from Barrett's to dysplasia is uncertain, but is estimated at about 20% of cases. Due to the risk of chronic heartburn progressing to Barrett's, EGD every five years is recommended for people with chronic heartburn, or who take drugs for chronic GERD.\n\n", 
+                                      "resource-id": "com.atomic.apps.medical.disease.condition.dictionary:id/sectioncontent", 
+                                      "adapter-view": false, 
+                                      "pointer": "383841c", 
+                                      "scrollable-horizontal": false, 
+                                      "ancestors": [
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "selected": false, 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        35, 
+                                        133, 
+                                        1405, 
+                                        6366
+                                      ], 
+                                      "draw": false, 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "visibility": "visible", 
+                                      "focused": false, 
+                                      "clickable": false, 
+                                      "abs-pos": true, 
+                                      "class": "android.widget.TextView", 
+                                      "visible-to-user": true, 
+                                      "package": "com.atomic.apps.medical.disease.condition.dictionary", 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        35, 
+                                        607, 
+                                        1405, 
+                                        2217
+                                      ], 
+                                      "pressed": "not_pressed", 
+                                      "scrollable-vertical": false
+                                    }, 
+                                    {
+                                      "text": "Signs and symptoms", 
+                                      "resource-id": "com.atomic.apps.medical.disease.condition.dictionary:id/sectiontitle", 
+                                      "adapter-view": false, 
+                                      "pointer": "ae7f825", 
+                                      "scrollable-horizontal": false, 
+                                      "ancestors": [
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "selected": false, 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        140, 
+                                        70, 
+                                        1300, 
+                                        195
+                                      ], 
+                                      "draw": false, 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "visibility": "visible", 
+                                      "focused": false, 
+                                      "clickable": false, 
+                                      "abs-pos": true, 
+                                      "class": "android.widget.TextView", 
+                                      "visible-to-user": true, 
+                                      "package": "com.atomic.apps.medical.disease.condition.dictionary", 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        140, 
+                                        544, 
+                                        1300, 
+                                        669
+                                      ], 
+                                      "pressed": "not_pressed", 
+                                      "scrollable-vertical": false
+                                    }
+                                  ], 
+                                  "adapter-view": false, 
+                                  "abs-pos": true, 
+                                  "pointer": "9dc798f", 
+                                  "class": "android.widget.RelativeLayout", 
+                                  "visible-to-user": true
+                                }, 
+                                {
+                                  "scrollable-horizontal": false, 
+                                  "draw": true, 
+                                  "ancestors": [
+                                    "android.view.ViewGroup", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "clickable": false, 
+                                  "pressed": "not_pressed", 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    0, 
+                                    6840, 
+                                    1440, 
+                                    2217
+                                  ], 
+                                  "visibility": "visible", 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    8427, 
+                                    1440, 
+                                    13116
+                                  ], 
+                                  "focused": false, 
+                                  "selected": false, 
+                                  "scrollable-vertical": false, 
+                                  "children": [
+                                    {
+                                      "text": "GERD is caused by a failure of the lower esophageal sphincter. In healthy patients, the \"Angle of His\"&mdash;the angle at which the esophagus enters the stomach&mdash;creates a valve that prevents duodenal bile, enzymes, and stomach acid from traveling back into the esophagus where they can cause burning and inflammation of sensitive esophageal tissue.\n\nFactors that can contribute to GERD: \n\nHiatal hernia, which increases the likelihood of GERD due to mechanical and motility factors.Obesity: increasing body mass index is associated with more severe GERD. In a large series of 2000 patients with symptomatic reflux disease, it has been shown that 13% of changes in esophageal acid exposure is attributable to changes in body mass index.Zollinger-Ellison syndrome, which can be present with increased gastric acidity due to gastrin production.Hypercalcemia, which can increase gastrin production, leading to increased acidity.Scleroderma and systemic sclerosis, which can feature esophageal dysmotility.The use of medicines such as prednisolone.Visceroptosis or Gl\u00e9nard syndrome, in which the stomach has sunk in the abdomen upsetting the motility and acid secretion of the stomach. \n\nGERD has been linked to a variety of respiratory and laryngeal complaints such as laryngitis, chronic cough, pulmonary fibrosis, earache, and asthma, even when not clinically apparent. These atypical manifestations of GERD is commonly referred to as laryngopharyngeal reflux (LPR) or as extraesophageal reflux disease (EERD).\n\nFactors that have been linked with GERD, but not conclusively: \n\nObstructive sleep apneaGallstones, which can impede the flow of bile into the Duodenum, which can affect the ability to neutralize gastric acid \n\nIn 1999, a review of existing studies found that, on average, 40% of GERD patients also had H. pylori infection. The eradication of H. pylori can lead to an increase in acid secretion, leading to the question of whether H. pylori-infected GERD patients are any different than non-infected GERD patients. A double-blind study, reported in 2004, found no clinically significant difference between these two types of patients with regard to the subjective or objective measures of disease severity.\n\n", 
+                                      "resource-id": "com.atomic.apps.medical.disease.condition.dictionary:id/sectioncontent", 
+                                      "adapter-view": false, 
+                                      "pointer": "9b11fab", 
+                                      "scrollable-horizontal": false, 
+                                      "ancestors": [
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "selected": false, 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        35, 
+                                        133, 
+                                        1405, 
+                                        4689
+                                      ], 
+                                      "draw": false, 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "visibility": "visible", 
+                                      "focused": false, 
+                                      "clickable": false, 
+                                      "abs-pos": true, 
+                                      "class": "android.widget.TextView", 
+                                      "visible-to-user": false, 
+                                      "package": "com.atomic.apps.medical.disease.condition.dictionary", 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        35, 
+                                        6973, 
+                                        1405, 
+                                        2217
+                                      ], 
+                                      "pressed": "not_pressed", 
+                                      "scrollable-vertical": false
+                                    }, 
+                                    {
+                                      "text": "Causes", 
+                                      "resource-id": "com.atomic.apps.medical.disease.condition.dictionary:id/sectiontitle", 
+                                      "adapter-view": false, 
+                                      "pointer": "152c608", 
+                                      "scrollable-horizontal": false, 
+                                      "ancestors": [
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "selected": false, 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        140, 
+                                        70, 
+                                        1300, 
+                                        195
+                                      ], 
+                                      "draw": false, 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "visibility": "visible", 
+                                      "focused": false, 
+                                      "clickable": false, 
+                                      "abs-pos": true, 
+                                      "class": "android.widget.TextView", 
+                                      "visible-to-user": false, 
+                                      "package": "com.atomic.apps.medical.disease.condition.dictionary", 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        140, 
+                                        6910, 
+                                        1300, 
+                                        2217
+                                      ], 
+                                      "pressed": "not_pressed", 
+                                      "scrollable-vertical": false
+                                    }
+                                  ], 
+                                  "adapter-view": false, 
+                                  "abs-pos": true, 
+                                  "pointer": "3fe1dfa", 
+                                  "class": "android.widget.RelativeLayout", 
+                                  "visible-to-user": false
+                                }, 
+                                {
+                                  "scrollable-horizontal": false, 
+                                  "draw": true, 
+                                  "ancestors": [
+                                    "android.view.ViewGroup", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "clickable": false, 
+                                  "pressed": "not_pressed", 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    0, 
+                                    11529, 
+                                    1440, 
+                                    2217
+                                  ], 
+                                  "visibility": "visible", 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    13116, 
+                                    1440, 
+                                    19311
+                                  ], 
+                                  "focused": false, 
+                                  "selected": false, 
+                                  "scrollable-vertical": false, 
+                                  "children": [
+                                    {
+                                      "text": "The diagnosis of GERD is usually made when typical symptoms are present. Reflux can be present in people without symptoms and the diagnosis requires both symptoms or complications and reflux of stomach content.\n\nOther investigations may include esophagogastroduodenoscopy (EGD). Barium swallow X-rays should not be used for diagnosis. Esophageal manometry is not recommended for use in diagnosis being recommended only prior to surgery. Ambulatory esophageal pH monitoring may be useful in those who do not improve after PPIs and is not needed in those in whom Barrett's esophagus is seen. Investigations for H. pylori is not usually needed.\n\nThe current gold standard for diagnosis of GERD is esophageal pH monitoring. It is the most objective test to diagnose the reflux disease and allows monitoring GERD patients in their response to medical or surgical treatment. One practice for diagnosis of GERD is a short-term treatment with proton-pump inhibitors, with improvement in symptoms suggesting a positive diagnosis. Short-term treatment with proton-pump inhibitors may help predict abnormal 24-hr pH monitoring results among patients with symptoms suggestive of GERD.\n\nEndoscopy\n\nEndoscopy, the looking down into the stomach with a fiber-optic scope, is not routinely needed if the case is typical and responds to treatment. It is recommended when people either do not respond well to treatment or have alarm symptoms, including dysphagia, anemia, blood in the stool (detected chemically), wheezing, weight loss, or voice changes. Some physicians advocate either once-in-a-lifetime or 5- to 10-yearly endoscopy for people with longstanding GERD, to evaluate the possible presence of dysplasia or Barrett's esophagus.\n\nBiopsies performed during gastroscopy may show: \n\nEdema and basal hyperplasia (nonspecific inflammatory changes)Lymphocytic inflammation (nonspecific)Neutrophilic inflammation (usually due to reflux or Helicobacter gastritis)Eosinophilic inflammation (usually due to reflux): The presence of intraepithelial eosinophils may suggest a diagnosis of eosinophilic esophagitis (EE) if eosinophils are present in high enough numbers. Less than 20 eosinophils per high-power microscopic field in the distal esophagus, in the presence of other histologic features of GERD, is more consistent with GERD than EE.Goblet cell intestinal metaplasia or Barrett's esophagusElongation of the papillaeThinning of the squamous cell layerDysplasia Carcinoma \n\nReflux changes may not be erosive in nature, leading to \"nonerosive reflux disease\".\n\nDifferential diagnosis\n\nOther causes of chest pain such as heart disease should be ruled out before making the diagnosis. Another kind of acid reflux, which causes respiratory and laryngeal signs and symptoms, is called laryngopharyngeal reflux (LPR) or \"extraesophageal reflux disease\" (EERD). Unlike GERD, LPR rarely produces heartburn, and is sometimes called silent reflux.\n\n", 
+                                      "resource-id": "com.atomic.apps.medical.disease.condition.dictionary:id/sectioncontent", 
+                                      "adapter-view": false, 
+                                      "pointer": "b001fc6", 
+                                      "scrollable-horizontal": false, 
+                                      "ancestors": [
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "selected": false, 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        35, 
+                                        133, 
+                                        1405, 
+                                        6195
+                                      ], 
+                                      "draw": false, 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "visibility": "visible", 
+                                      "focused": false, 
+                                      "clickable": false, 
+                                      "abs-pos": true, 
+                                      "class": "android.widget.TextView", 
+                                      "visible-to-user": false, 
+                                      "package": "com.atomic.apps.medical.disease.condition.dictionary", 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        35, 
+                                        11662, 
+                                        1405, 
+                                        2217
+                                      ], 
+                                      "pressed": "not_pressed", 
+                                      "scrollable-vertical": false
+                                    }, 
+                                    {
+                                      "text": "Diagnosis", 
+                                      "resource-id": "com.atomic.apps.medical.disease.condition.dictionary:id/sectiontitle", 
+                                      "adapter-view": false, 
+                                      "pointer": "1e00b87", 
+                                      "scrollable-horizontal": false, 
+                                      "ancestors": [
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "selected": false, 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        140, 
+                                        70, 
+                                        1300, 
+                                        195
+                                      ], 
+                                      "draw": false, 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "visibility": "visible", 
+                                      "focused": false, 
+                                      "clickable": false, 
+                                      "abs-pos": true, 
+                                      "class": "android.widget.TextView", 
+                                      "visible-to-user": false, 
+                                      "package": "com.atomic.apps.medical.disease.condition.dictionary", 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        140, 
+                                        11599, 
+                                        1300, 
+                                        2217
+                                      ], 
+                                      "pressed": "not_pressed", 
+                                      "scrollable-vertical": false
+                                    }
+                                  ], 
+                                  "adapter-view": false, 
+                                  "abs-pos": true, 
+                                  "pointer": "ac4f1a1", 
+                                  "class": "android.widget.RelativeLayout", 
+                                  "visible-to-user": false
+                                }, 
+                                {
+                                  "scrollable-horizontal": false, 
+                                  "draw": true, 
+                                  "ancestors": [
+                                    "android.view.ViewGroup", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "clickable": false, 
+                                  "pressed": "not_pressed", 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    0, 
+                                    17724, 
+                                    1440, 
+                                    2217
+                                  ], 
+                                  "visibility": "visible", 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    19311, 
+                                    1440, 
+                                    28591
+                                  ], 
+                                  "focused": false, 
+                                  "selected": false, 
+                                  "scrollable-vertical": false, 
+                                  "children": [
+                                    {
+                                      "text": "The treatments for GERD include lifestyle modifications, medications, and possibly surgery. Initial treatment is frequently with a proton-pump inhibitor such as omeprazole.\n\nLifestyle\n\nCertain foods and lifestyle are considered to promote gastroesophageal reflux, however most dietary interventions have little supporting evidence. Weight loss and elevating the head of the bed are generally useful. Moderate exercise improves symptoms, however in those with GERD vigorous exercise may worsen them. Stopping smoking and not drinking alcohol do not appear to result in significant improvement in symptoms. Avoidance of specific foods and of eating before lying down should only be recommended to those in which they are associated with the symptoms. Foods that have been implicated include coffee, alcohol, chocolate, fatty foods, acidic foods, and spicy foods.\n\nMedications\n\nThe primary medications used for GERD are proton-pump inhibitors, H receptor blockers and antacids with or without alginic acid.\n\nProton-pump inhibitors (PPIs) (such as omeprazole) are the most effective followed by H receptor blockers (such as ranitidine). If a once daily PPI is only partially effective they may be used twice a day. They should be taken one half to one hour before a meal. There is no significant difference between agents in this class. When these medications are used long term, the lowest effective dose should be taken. They may also be taken only when symptoms occur in those with frequent problems. H receptor blockers lead to roughly a 40% improvement.\n\nThe evidence for antacids is weaker with a benefit of about 10% (NNT=13) while a combination of an antacid and alginic acid (such as Gaviscon) may improve symptoms 60% (NNT=4). Metoclopramide (a prokinetic) is not recommended either alone or in combination with other treatments due to concerns around adverse effects. The benefit of the prokinetic mosapride is modest.\n\nSucralfate has a similar effectiveness to H receptor blockers; however, sucralfate needs to be taken multiple times a day, thus limiting its use. Baclofen, an agonist of the GABA receptor, while effective, has similar issues of needing frequent dosing in addition to greater adverse effects compared to other medications.\n\nSurgery\n\nThe standard surgical treatment for severe GERD is the Nissen fundoplication. In this procedure, the upper part of the stomach is wrapped around the lower esophageal sphincter to strengthen the sphincter and prevent acid reflux and to repair a hiatal hernia. It is only recommended in those who improve with PPIs. Benefits are equal to medical treatment in those with chronic symptoms. In addition, in the short and medium term, laparoscopic fundoplication improves quality of life compared to medical management. When comparing different fundoplication techniques, partial posterior fundoplication surgery is more effective than partial anterior fundoplication surgery.\n\nPregnancy\n\nIn pregnancy, dietary modifications and lifestyle changes may be attempted, but often have little effect. Calcium-based antacids are recommended if these changes are not effective. Aluminum- and magnesium-based antacids are also safe, as is ranitidine and PPIs.\n\nInfants\n\nInfants may see relief with changes in feeding techniques, such as smaller, more frequent feedings, changes in position during feedings, or more frequent burping during feedings. They may also be treated with medicines such as ranitidine or proton pump inhibitors. Proton pump inhibitors however have not been found to be effective in this population and there is a lack of evidence for safety.\n\nOvertreatment\n\nThe use of acid suppression therapy is a common response to GERD symptoms and many patients get more of this kind of treatment than their individual case merits. The overuse of this treatment is a problem because of the side effects and costs which the patient will have from undergoing unnecessary therapy, and patients should not take more treatment than they need. \n\nIn some cases, a person with GERD symptoms can manage them by taking over-the-counter drugs and making lifestyle changes. This is often safer and less expensive than taking prescription drugs. Some guidelines recommend trying to treat symptoms with an H antagonist before using a proton-pump inhibitor because of cost and safety concerns. \n\n", 
+                                      "resource-id": "com.atomic.apps.medical.disease.condition.dictionary:id/sectioncontent", 
+                                      "adapter-view": false, 
+                                      "pointer": "91e06dd", 
+                                      "scrollable-horizontal": false, 
+                                      "ancestors": [
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "selected": false, 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        35, 
+                                        133, 
+                                        1405, 
+                                        9280
+                                      ], 
+                                      "draw": false, 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "visibility": "visible", 
+                                      "focused": false, 
+                                      "clickable": false, 
+                                      "abs-pos": true, 
+                                      "class": "android.widget.TextView", 
+                                      "visible-to-user": false, 
+                                      "package": "com.atomic.apps.medical.disease.condition.dictionary", 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        35, 
+                                        17857, 
+                                        1405, 
+                                        2217
+                                      ], 
+                                      "pressed": "not_pressed", 
+                                      "scrollable-vertical": false
+                                    }, 
+                                    {
+                                      "text": "Treatment", 
+                                      "resource-id": "com.atomic.apps.medical.disease.condition.dictionary:id/sectiontitle", 
+                                      "adapter-view": false, 
+                                      "pointer": "3ce7252", 
+                                      "scrollable-horizontal": false, 
+                                      "ancestors": [
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "selected": false, 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        140, 
+                                        70, 
+                                        1300, 
+                                        195
+                                      ], 
+                                      "draw": false, 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "visibility": "visible", 
+                                      "focused": false, 
+                                      "clickable": false, 
+                                      "abs-pos": true, 
+                                      "class": "android.widget.TextView", 
+                                      "visible-to-user": false, 
+                                      "package": "com.atomic.apps.medical.disease.condition.dictionary", 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        140, 
+                                        17794, 
+                                        1300, 
+                                        2217
+                                      ], 
+                                      "pressed": "not_pressed", 
+                                      "scrollable-vertical": false
+                                    }
+                                  ], 
+                                  "adapter-view": false, 
+                                  "abs-pos": true, 
+                                  "pointer": "1523ab4", 
+                                  "class": "android.widget.RelativeLayout", 
+                                  "visible-to-user": false
+                                }, 
+                                {
+                                  "scrollable-horizontal": false, 
+                                  "draw": true, 
+                                  "ancestors": [
+                                    "android.view.ViewGroup", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "clickable": false, 
+                                  "pressed": "not_pressed", 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    0, 
+                                    27004, 
+                                    1440, 
+                                    2217
+                                  ], 
+                                  "visibility": "visible", 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    28591, 
+                                    1440, 
+                                    29776
+                                  ], 
+                                  "focused": false, 
+                                  "selected": false, 
+                                  "scrollable-vertical": false, 
+                                  "children": [
+                                    {
+                                      "text": "In Western populations GERD affects approximately 10% to 20% of the population and 0.4% newly develop the condition. For instance, an estimated 3.4 million to 6.8 million Canadians are GERD sufferers. The prevalence rate of GERD in developed nations is also tightly linked with age, with adults aged 60 to 70 being the most commonly affected. In the United States 20% of people have symptoms in a given week and 7% every day. No data support sex predominance with regard to GERD.\n\n", 
+                                      "resource-id": "com.atomic.apps.medical.disease.condition.dictionary:id/sectioncontent", 
+                                      "adapter-view": false, 
+                                      "pointer": "324e20", 
+                                      "scrollable-horizontal": false, 
+                                      "ancestors": [
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "selected": false, 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        35, 
+                                        133, 
+                                        1405, 
+                                        1185
+                                      ], 
+                                      "draw": false, 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "visibility": "visible", 
+                                      "focused": false, 
+                                      "clickable": false, 
+                                      "abs-pos": true, 
+                                      "class": "android.widget.TextView", 
+                                      "visible-to-user": false, 
+                                      "package": "com.atomic.apps.medical.disease.condition.dictionary", 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        35, 
+                                        27137, 
+                                        1405, 
+                                        2217
+                                      ], 
+                                      "pressed": "not_pressed", 
+                                      "scrollable-vertical": false
+                                    }, 
+                                    {
+                                      "text": "Epidemiology", 
+                                      "resource-id": "com.atomic.apps.medical.disease.condition.dictionary:id/sectiontitle", 
+                                      "adapter-view": false, 
+                                      "pointer": "5f933d9", 
+                                      "scrollable-horizontal": false, 
+                                      "ancestors": [
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "selected": false, 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        140, 
+                                        70, 
+                                        1300, 
+                                        195
+                                      ], 
+                                      "draw": false, 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "visibility": "visible", 
+                                      "focused": false, 
+                                      "clickable": false, 
+                                      "abs-pos": true, 
+                                      "class": "android.widget.TextView", 
+                                      "visible-to-user": false, 
+                                      "package": "com.atomic.apps.medical.disease.condition.dictionary", 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        140, 
+                                        27074, 
+                                        1300, 
+                                        2217
+                                      ], 
+                                      "pressed": "not_pressed", 
+                                      "scrollable-vertical": false
+                                    }
+                                  ], 
+                                  "adapter-view": false, 
+                                  "abs-pos": true, 
+                                  "pointer": "327d923", 
+                                  "class": "android.widget.RelativeLayout", 
+                                  "visible-to-user": false
+                                }, 
+                                {
+                                  "scrollable-horizontal": false, 
+                                  "draw": true, 
+                                  "ancestors": [
+                                    "android.view.ViewGroup", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "clickable": false, 
+                                  "pressed": "not_pressed", 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    0, 
+                                    28189, 
+                                    1440, 
+                                    2217
+                                  ], 
+                                  "visibility": "visible", 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    29776, 
+                                    1440, 
+                                    30523
+                                  ], 
+                                  "focused": false, 
+                                  "selected": false, 
+                                  "scrollable-vertical": false, 
+                                  "children": [
+                                    {
+                                      "text": "An obsolete treatment is vagotomy (\"highly selective vagotomy\"), the surgical removal of vagus nerve branches that innervate the stomach lining. This treatment has been largely replaced by medication.\n\n", 
+                                      "resource-id": "com.atomic.apps.medical.disease.condition.dictionary:id/sectioncontent", 
+                                      "adapter-view": false, 
+                                      "pointer": "194e47f", 
+                                      "scrollable-horizontal": false, 
+                                      "ancestors": [
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "selected": false, 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        35, 
+                                        133, 
+                                        1405, 
+                                        747
+                                      ], 
+                                      "draw": false, 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "visibility": "visible", 
+                                      "focused": false, 
+                                      "clickable": false, 
+                                      "abs-pos": true, 
+                                      "class": "android.widget.TextView", 
+                                      "visible-to-user": false, 
+                                      "package": "com.atomic.apps.medical.disease.condition.dictionary", 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        35, 
+                                        28322, 
+                                        1405, 
+                                        2217
+                                      ], 
+                                      "pressed": "not_pressed", 
+                                      "scrollable-vertical": false
+                                    }, 
+                                    {
+                                      "text": "History", 
+                                      "resource-id": "com.atomic.apps.medical.disease.condition.dictionary:id/sectiontitle", 
+                                      "adapter-view": false, 
+                                      "pointer": "33e2c4c", 
+                                      "scrollable-horizontal": false, 
+                                      "ancestors": [
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "selected": false, 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        140, 
+                                        70, 
+                                        1300, 
+                                        195
+                                      ], 
+                                      "draw": false, 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "visibility": "visible", 
+                                      "focused": false, 
+                                      "clickable": false, 
+                                      "abs-pos": true, 
+                                      "class": "android.widget.TextView", 
+                                      "visible-to-user": false, 
+                                      "package": "com.atomic.apps.medical.disease.condition.dictionary", 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        140, 
+                                        28259, 
+                                        1300, 
+                                        2217
+                                      ], 
+                                      "pressed": "not_pressed", 
+                                      "scrollable-vertical": false
+                                    }
+                                  ], 
+                                  "adapter-view": false, 
+                                  "abs-pos": true, 
+                                  "pointer": "bbd619e", 
+                                  "class": "android.widget.RelativeLayout", 
+                                  "visible-to-user": false
+                                }, 
+                                {
+                                  "scrollable-horizontal": false, 
+                                  "draw": true, 
+                                  "ancestors": [
+                                    "android.view.ViewGroup", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "clickable": false, 
+                                  "pressed": "not_pressed", 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    0, 
+                                    28936, 
+                                    1440, 
+                                    2217
+                                  ], 
+                                  "visibility": "visible", 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    30523, 
+                                    1440, 
+                                    31121
+                                  ], 
+                                  "focused": false, 
+                                  "selected": false, 
+                                  "scrollable-vertical": false, 
+                                  "children": [
+                                    {
+                                      "text": "This article uses material from the Wikipedia article \"http://en.wikipedia.org/wiki/Gastroesophageal_reflux_disease\", which is released under the Creative Commons Attribution-Share-Alike License 3.0.", 
+                                      "resource-id": "com.atomic.apps.medical.disease.condition.dictionary:id/sectioncontent", 
+                                      "adapter-view": false, 
+                                      "pointer": "f19f9aa", 
+                                      "scrollable-horizontal": false, 
+                                      "ancestors": [
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "selected": false, 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        35, 
+                                        133, 
+                                        1405, 
+                                        598
+                                      ], 
+                                      "draw": false, 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "visibility": "visible", 
+                                      "focused": false, 
+                                      "clickable": false, 
+                                      "abs-pos": true, 
+                                      "class": "android.widget.TextView", 
+                                      "visible-to-user": false, 
+                                      "package": "com.atomic.apps.medical.disease.condition.dictionary", 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        35, 
+                                        29069, 
+                                        1405, 
+                                        2217
+                                      ], 
+                                      "pressed": "not_pressed", 
+                                      "scrollable-vertical": false
+                                    }, 
+                                    {
+                                      "text": "Content Attribution", 
+                                      "resource-id": "com.atomic.apps.medical.disease.condition.dictionary:id/sectiontitle", 
+                                      "adapter-view": false, 
+                                      "pointer": "b9d499b", 
+                                      "scrollable-horizontal": false, 
+                                      "ancestors": [
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "selected": false, 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        140, 
+                                        70, 
+                                        1300, 
+                                        195
+                                      ], 
+                                      "draw": false, 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "visibility": "visible", 
+                                      "focused": false, 
+                                      "clickable": false, 
+                                      "abs-pos": true, 
+                                      "class": "android.widget.TextView", 
+                                      "visible-to-user": false, 
+                                      "package": "com.atomic.apps.medical.disease.condition.dictionary", 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        140, 
+                                        29006, 
+                                        1300, 
+                                        2217
+                                      ], 
+                                      "pressed": "not_pressed", 
+                                      "scrollable-vertical": false
+                                    }
+                                  ], 
+                                  "adapter-view": false, 
+                                  "abs-pos": true, 
+                                  "pointer": "1c03495", 
+                                  "class": "android.widget.RelativeLayout", 
+                                  "visible-to-user": false
+                                }
+                              ], 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                0, 
+                                1440, 
+                                31121
+                              ], 
+                              "draw": true, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "class": "android.widget.LinearLayout", 
+                              "visible-to-user": true, 
+                              "package": "com.atomic.apps.medical.disease.condition.dictionary", 
+                              "enabled": true, 
+                              "bounds": [
+                                0, 
+                                312, 
+                                1440, 
+                                2217
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }
+                          ], 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.widget.FrameLayout", 
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            228, 
+                            1440, 
+                            2133
+                          ], 
+                          "draw": false, 
+                          "focusable": true, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": false, 
+                          "abs-pos": true, 
+                          "class": "android.widget.ScrollView", 
+                          "visible-to-user": true, 
+                          "package": "com.atomic.apps.medical.disease.condition.dictionary", 
+                          "enabled": true, 
+                          "bounds": [
+                            0, 
+                            312, 
+                            1440, 
+                            2217
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": true
+                        }
+                      ], 
+                      "adapter-view": false, 
+                      "abs-pos": true, 
+                      "pointer": "71a884", 
+                      "class": "android.widget.LinearLayout", 
+                      "visible-to-user": true
+                    }, 
+                    {
+                      "resource-id": "com.atomic.apps.medical.disease.condition.dictionary:id/adholder", 
+                      "adapter-view": false, 
+                      "pointer": "747c138", 
+                      "children": [
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": true, 
+                          "ancestors": [
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": false, 
+                          "pressed": "not_pressed", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            0, 
+                            2217, 
+                            1440, 
+                            2392
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            1440, 
+                            175
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "children": [
+                            {
+                              "scrollable-horizontal": false, 
+                              "draw": true, 
+                              "ancestors": [
+                                "android.widget.ViewSwitcher", 
+                                "android.widget.ViewAnimator", 
+                                "android.widget.FrameLayout", 
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "clickable": false, 
+                              "pressed": "not_pressed", 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "enabled": true, 
+                              "bounds": [
+                                0, 
+                                2217, 
+                                1440, 
+                                2392
+                              ], 
+                              "visibility": "visible", 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                0, 
+                                1440, 
+                                175
+                              ], 
+                              "focused": false, 
+                              "selected": false, 
+                              "scrollable-vertical": false, 
+                              "children": [
+                                {
+                                  "scrollable-horizontal": false, 
+                                  "draw": true, 
+                                  "ancestors": [
+                                    "android.widget.FrameLayout", 
+                                    "android.view.ViewGroup", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "clickable": false, 
+                                  "pressed": "not_pressed", 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    0, 
+                                    2217, 
+                                    1440, 
+                                    2392
+                                  ], 
+                                  "visibility": "visible", 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    0, 
+                                    1440, 
+                                    175
+                                  ], 
+                                  "focused": false, 
+                                  "selected": false, 
+                                  "scrollable-vertical": false, 
+                                  "children": [
+                                    {
+                                      "scrollable-horizontal": true, 
+                                      "draw": false, 
+                                      "ancestors": [
+                                        "android.webkit.WebView", 
+                                        "android.widget.AbsoluteLayout", 
+                                        "android.view.ViewGroup", 
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "clickable": true, 
+                                      "pressed": "not_pressed", 
+                                      "focusable": true, 
+                                      "long-clickable": false, 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        0, 
+                                        2217, 
+                                        1440, 
+                                        2392
+                                      ], 
+                                      "visibility": "visible", 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        0, 
+                                        0, 
+                                        1440, 
+                                        175
+                                      ], 
+                                      "focused": false, 
+                                      "selected": false, 
+                                      "scrollable-vertical": true, 
+                                      "adapter-view": false, 
+                                      "abs-pos": true, 
+                                      "pointer": "253b8e4", 
+                                      "class": "com.google.android.gms.ads.internal.webview.o", 
+                                      "visible-to-user": true
+                                    }
+                                  ], 
+                                  "adapter-view": false, 
+                                  "abs-pos": true, 
+                                  "pointer": "6fce477", 
+                                  "class": "com.google.android.gms.ads.internal.webview.n", 
+                                  "visible-to-user": true
+                                }
+                              ], 
+                              "adapter-view": false, 
+                              "abs-pos": true, 
+                              "pointer": "ff60676", 
+                              "class": "com.google.android.gms.ads.internal.bp", 
+                              "visible-to-user": true
+                            }
+                          ], 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "fbc8511", 
+                          "class": "com.google.android.gms.ads.e", 
+                          "visible-to-user": true
+                        }
+                      ], 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        2133, 
+                        1440, 
+                        2308
+                      ], 
+                      "draw": true, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.widget.LinearLayout", 
+                      "visible-to-user": true, 
+                      "package": "com.atomic.apps.medical.disease.condition.dictionary", 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        2217, 
+                        1440, 
+                        2392
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }
+                  ], 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.view.ViewGroup", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    0, 
+                    1440, 
+                    2308
+                  ], 
+                  "draw": true, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "class": "android.widget.RelativeLayout", 
+                  "visible-to-user": true, 
+                  "package": "com.atomic.apps.medical.disease.condition.dictionary", 
+                  "enabled": true, 
+                  "bounds": [
+                    0, 
+                    84, 
+                    1440, 
+                    2392
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }
+              ], 
+              "scrollable-horizontal": false, 
+              "ancestors": [
+                "android.view.ViewGroup", 
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "selected": false, 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                84, 
+                1440, 
+                2392
+              ], 
+              "draw": true, 
+              "focusable": false, 
+              "long-clickable": false, 
+              "visibility": "visible", 
+              "focused": false, 
+              "clickable": false, 
+              "abs-pos": true, 
+              "class": "android.widget.FrameLayout", 
+              "visible-to-user": true, 
+              "package": "android", 
+              "enabled": true, 
+              "bounds": [
+                0, 
+                84, 
+                1440, 
+                2392
+              ], 
+              "pressed": "not_pressed", 
+              "scrollable-vertical": false
+            }
+          ], 
+          "adapter-view": false, 
+          "abs-pos": true, 
+          "pointer": "d07f6d8", 
+          "class": "android.widget.LinearLayout", 
+          "visible-to-user": true
+        }
+      ], 
+      "adapter-view": false, 
+      "abs-pos": true, 
+      "pointer": "24c51bb", 
+      "class": "com.android.internal.policy.PhoneWindow$DecorView", 
+      "visible-to-user": true
+    }, 
+    "added_fragments": [], 
+    "active_fragments": []
+  }, 
+  "is_keyboard_deployed": false, 
+  "request_id": "314"
+}
